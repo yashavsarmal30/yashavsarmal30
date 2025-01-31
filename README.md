@@ -13,6 +13,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashavsarmal30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![snake gif](https://github.com/MihirRajeshPanchal/MihirRajeshPanchal/blob/output/github-contribution-grid-snake.svg)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
