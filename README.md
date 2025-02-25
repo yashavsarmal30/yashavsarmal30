@@ -24,3 +24,5 @@
 [![](https://visitcount.itsvg.in/api?id=yashavsarmal30&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h4 align="left">Visitor's count 👀</h4>
+<p align="left"><img src="https://profile-counter.glitch.me/{yashavsarmal30}/count.svg" alt="Yash Avsarmal :: Visitor's Count" /></p>
