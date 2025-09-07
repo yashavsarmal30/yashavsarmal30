@@ -1,28 +1,80 @@
-# Hello There👋🏼
+<!-- Banner -->
+<p align="center">
+  <img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/anime-wave.gif" width="600"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashavsarmal30) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-avsarmal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yashavsarmal30) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashavsarmal30&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashavsarmal30&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashavsarmal30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yashavsarmal30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yashavsarmal30&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<h1 align="center">Hello There 👋🏼, I'm Yash Avsarmal</h1>
+<h3 align="center">✨ Tech Enthusiast | Anime Lover | Lifelong Learner ✨</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashavsarmal30&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h4 align="left">Visitor's count 👀</h4>
-<p align="left"><img src="https://profile-counter.glitch.me/{yashavsarmal30}/count.svg" alt="Yash Avsarmal :: Visitor's Count" /></p>
+## 🌐 Connect With Me:
+<p align="center">
+  <a href="https://instagram.com/yashavsarmal30"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+  <a href="https://linkedin.com/in/yash-avsarmal"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://twitter.com/yashavsarmal30"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,python,php,js,html,css,latex,android,mysql,sqlite,oracle,bootstrap,figma,blender,linux,git" />
+</p>
+
+---
+
+## ⚡ Anime Corner 🎌
+<p align="center">
+  <img src="https://media.tenor.com/ALgB6bJdXJcAAAAC/gojo-satoru-jujutsu-kaisen.gif" width="350"/>
+</p>
+
+> *"Fear is not evil. It tells you what your weakness is. And once you know your weakness, you can become stronger as well."*  
+— **Gildarts Clive (Fairy Tail)**
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashavsarmal30&theme=tokyonight&hide_border=false&count_private=true&show_icons=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashavsarmal30&theme=tokyonight&hide_border=false" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashavsarmal30&theme=tokyonight&hide_border=false&layout=compact" height="140"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashavsarmal30&theme=tokyonight&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repos
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=yashavsarmal30&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+## 👀 Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{yashavsarmal30}/count.svg" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/9x2i2BzYc4sAAAAC/itachi.gif" width="300"/>
+</p>
+
+---
+✨ *Thanks for stopping by! May your code always compile and your anime never buffer.* ✨
