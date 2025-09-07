@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">I'm Yash Avsarmal</h1>
-<h3 align="center">Tech</h3>
+<h3 align="center">High On Tech</h3>
 
 <p align="center">
   <a href="https://instagram.com/yashavsarmal30"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
