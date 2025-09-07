@@ -3,16 +3,11 @@
   <img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/anime-wave.gif" width="600"/>
 </p>
 
-<h1 align="center">Hello There 👋🏼, I'm Yash Avsarmal</h1>
-<h3 align="center">✨ Tech Enthusiast | Anime Lover | Lifelong Learner ✨</h3>
+<h1 align="center">I'm Yash Avsarmal</h1>
+<h3 align="center">Tech</h3>
 
----
-
-## 🌐 Connect With Me:
 <p align="center">
   <a href="https://instagram.com/yashavsarmal30"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
   <a href="https://linkedin.com/in/yash-avsarmal"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://twitter.com/yashavsarmal30"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
 </p>
-
----
