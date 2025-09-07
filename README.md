@@ -9,5 +9,4 @@
 <p align="center">
   <a href="https://instagram.com/yashavsarmal30"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
   <a href="https://linkedin.com/in/yash-avsarmal"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="https://twitter.com/yashavsarmal30"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
 </p>
