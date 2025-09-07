@@ -3,7 +3,7 @@
   <img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/anime-wave.gif" width="600"/>
 </p>
 
-<h1 align="center">I'm Yash Avsarmal</h1>
+<h1 align="center">I'm Yash ; </h1>
 <h3 align="center">High On Tech</h3>
 
 <p align="center">
