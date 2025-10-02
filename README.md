@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.tenor.com/x8v1oNUOmg4AAAAd/anime-wave.gif" width="600"/>
+  <img src="https://tenor.com/view/zoro-one-piece-sword-epic-gif-17912030" width="600"/>
+  
 </p>
 
 <h1 align="center">I'm Yash ; </h1>
