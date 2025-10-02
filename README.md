@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/218/218663.gif" width="600"/>
+  <!-- <img src="https://giffiles.alphacoders.com/218/218663.gif" width="600"/> -->
+  <img src="https://giffiles.alphacoders.com/220/220047.gif" width="800"/>
 </p>
 
 <h1 align="center">I'm Yash ; </h1>
