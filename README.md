@@ -21,7 +21,7 @@
   <img src="https://page-visit-counter.onrender.com/badge?username=yashavsarmal30&style=rounded&icon=eye&bg=007acc"/>
 </p> -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashavsarmal30/yashavsarmal30/output/pacman-contribution-graph-  dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashavsarmal30/yashavsarmal30/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashavsarmal30/yashavsarmal30/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yashavsarmal30/yashavsarmal30/output/pacman-contribution-graph.svg">
 </picture>
